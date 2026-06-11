@@ -2,6 +2,10 @@
 
 **Free, lightweight Windows app that boosts your FPS in Roblox.** Built for low-end PCs and laptops: one click lowers heavy graphics and tunes Windows for gaming, so Roblox runs smoother.
 
+<p align="center">
+  <img src="screenshot.png" alt="BloxBoost panel" width="380">
+</p>
+
 > BloxBoost does **not** modify the Roblox program and does **not** inject anything into the game. It only writes Roblox's own graphics settings and adjusts Windows. No account risk.
 
 ## Features

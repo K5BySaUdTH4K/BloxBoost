@@ -6,3 +6,6 @@ obj/
 # internal-only, never publish
 PLAN.md
 build-dist.ps1
+Capture.cs
+Capture.exe
+shot.png
