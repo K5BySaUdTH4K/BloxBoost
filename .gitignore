@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+.vs/
+*.suo
+# internal-only, never publish
+PLAN.md
+build-dist.ps1

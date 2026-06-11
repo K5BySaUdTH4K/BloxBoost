@@ -1,0 +1,15 @@
+{
+  "DFIntDebugFRMQualityLevelOverride": "1",
+  "FFlagDisablePostFx": "True",
+  "FIntDebugForceMSAASamples": "0",
+  "FIntRenderShadowIntensity": "0",
+  "DFFlagDebugRenderForceTechnologyVoxel": "True",
+  "DFFlagDebugPauseVoxelizer": "True",
+  "FIntFRMMinGrassDistance": "0",
+  "FIntFRMMaxGrassDistance": "0",
+  "FIntRenderGrassDetailStrands": "0",
+  "DFIntTextureQualityOverride": "0",
+  "FFlagDebugSkyGray": "True",
+  "FIntRenderLocalLightUpdatesMax": "4",
+  "DFIntTaskSchedulerTargetFps": "240"
+}

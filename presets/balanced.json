@@ -1,0 +1,8 @@
+{
+  "DFIntDebugFRMQualityLevelOverride": "10",
+  "FFlagDisablePostFx": "False",
+  "FIntRenderShadowIntensity": "0",
+  "DFFlagDebugRenderForceTechnologyVoxel": "True",
+  "FIntFRMMinGrassDistance": "0",
+  "DFIntTaskSchedulerTargetFps": "240"
+}
